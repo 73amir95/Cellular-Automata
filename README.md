@@ -1,4 +1,5 @@
-"# Cellular-Automata" 
+"Cellular-Automata" 
+
 This project implements a cellular automaton using Java and the Processing library. It provides different patterns and visualizations for the automaton.
 Dependencies
 
